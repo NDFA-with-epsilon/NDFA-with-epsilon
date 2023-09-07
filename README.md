@@ -1,5 +1,6 @@
 ### Hi there 👋
-I love to work with C++ and Rust, although Java is cool too ! \I have worked on a few projects in these languages and I'm currently exploring Network Programming on Linux. 
+I love to work with C++ and Rust, although Java is cool too ! 
+I have worked on a few projects in these languages and I'm currently exploring Network Programming on Linux. 
 <!--
 **NDFA-with-epsilon/NDFA-with-epsilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
