@@ -2,7 +2,7 @@
 I love to work with C, C++ and Rust, although Java is cool too.
 I have worked on a few projects in these languages and I'm currently exploring Network Programming on Linux. <br>
 Always open to exploring new technologies ! <br> <br>
-I love to study about Operating System and Database engine internals and <br>currently I am also working my way through [OS 161](http://www.os161.org/) in my free time, building the OS part by part and hopefully write it all in Rust!
+I love to study about Operating System and Database engine internals and currently I am also working my way through [OS 161](http://www.os161.org/) in my free time, building the OS part by part and hopefully write it all in Rust!
 <!--
 **NDFA-with-epsilon/NDFA-with-epsilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
